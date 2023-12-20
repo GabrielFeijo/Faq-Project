@@ -16,12 +16,14 @@ const config: Config = {
 			},
 			backgroundColor: {
 				'primary-color': '#F9EEFF',
+				'btn-color': '#2D1531',
 			},
 			colors: {
 				'primary-color': '#2D1531',
 				'secondary-color': '#AC29E7',
 				answer: '#A6A3A7',
 			},
+			borderColor: {},
 		},
 	},
 	plugins: [],
