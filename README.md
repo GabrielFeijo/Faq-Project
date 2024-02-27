@@ -12,8 +12,8 @@
 
 Resultado:
 
-- ![Projeto React](https://media.discordapp.net/attachments/786006828466044931/1187028125792600144/home.png?ex=65956517&is=6582f017&hm=b513d8c1dcb843911fda71062d14fa2c52f34747ea63363c564d02aa7008ad38&=&format=webp&quality=lossless&width=385&height=280)
-- ![Projeto React](https://media.discordapp.net/attachments/786006828466044931/1187028125528375306/faq.png?ex=65956517&is=6582f017&hm=2befee65a55dcbece314b5ca3fde6e748d5f2eeb935b0c0cc37d65bc0ba1b08e&=&format=webp&quality=lossless&width=385&height=397)
+- ![Projeto React](https://i.imgur.com/W2TTvKs.png)
+- ![Projeto React](https://i.imgur.com/RlSXnGk.png)
 
 ## 🛠️ Stacks
 
